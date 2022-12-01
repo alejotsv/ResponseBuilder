@@ -21,6 +21,5 @@ public class ResponseBuilder {
             System.out.println("Exception: " + e.getMessage());
         }
         return response.toString();
-
     }
 }
